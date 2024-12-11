@@ -27,7 +27,7 @@ Welcome to my **LeetCode Daily Challenges** repository! 🎯 This repo is a coll
 
 | Day   | Date           | Problem Link                                          |     ||
 |-------|----------------|-------------------------------------------------------|--------------------|-------------------|
-| Day 1 | December 11, 2024 | [Problem Name](https://leetcode.com/https://leetcode.com/problems/snake-in-matrix/description/) 
+| Day 1 | December 11, 2024 | [Problem Name](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) 
 | Day 2 | December 12, 2024 | [Problem Name](https://leetcode.com/problem-link) | 
 
 ---
