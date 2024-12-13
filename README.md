@@ -29,6 +29,8 @@ Welcome to my **LeetCode Daily Challenges** repository! 🎯 This repo is a coll
 |-------|----------------|-------------------------------------------------------|--------------------|-------------------|
 | Day 1 | December 11, 2024 | [Problem Name](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) 
 | Day 2 | December 12, 2024 | [Problem Name](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/) | 
+| Day 2 | December 12, 2024 | [Problem Name](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/) | 
+
 
 ---
 
