@@ -7,5 +7,6 @@ class Solution:
             x=-heappop(gifts)
             heappush(gifts, -isqrt(x))
             i+=1
+            
         return -sum(gifts)
        
