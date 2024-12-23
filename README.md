@@ -34,6 +34,8 @@ Welcome to my **LeetCode Daily Challenges** repository! 🎯 This repo is a coll
 | Day 5 | December 15, 2024 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/) |
 | Day 6 | December 16, 2024 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) |
 | Day 7 | December 17, 2024 | [Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) |
+| Day 8 | December 18, 2024 | [minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/description/) |
+
 
 
 
