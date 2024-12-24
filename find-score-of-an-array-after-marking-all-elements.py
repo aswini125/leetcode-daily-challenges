@@ -5,6 +5,7 @@ class Solution:
         heapify(heap)
         res = 0
         while heap:
+            
             n, i = heappop(heap)
             if i in marked:
                 continue
