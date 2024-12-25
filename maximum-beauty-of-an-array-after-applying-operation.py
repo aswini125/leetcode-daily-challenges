@@ -12,6 +12,7 @@ class Solution:
             ub = self.find(nums, nums[i] + 2 * k)
             # Update max_beauty with the size of the current valid subsequence
             max_beauty = max(max_beauty, ub - i + 1)
+
         
         return max_beauty  # Return the maximum valid subsequence size
 
