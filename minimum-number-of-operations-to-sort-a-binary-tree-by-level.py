@@ -9,7 +9,6 @@ class Solution:
         for i in range(n):
             if visited[i] or indexedArr[i][1] == i:
                 continue
-
             cycleSize = 0
             j = i
             while not visited[j]:
